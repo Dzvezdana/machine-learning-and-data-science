@@ -8,10 +8,21 @@ Additionally the object can be vertically aligned on the major axis by using an 
 
 The location of the wrench is given by the principal components and that the principal components can be interpreted as the semiaxes of an ellipse in 2D. Before applying PCA, it is necessary to do some preprocessing like thresholding and finding the edges.
 The results are shown in the following images:
-![Original image](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench.jpg)
-![Principal components](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench_PC.jpg)
-![Rotation](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/rotated_wrench.jpg)
-
+Original image:  
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench.jpg" width="460" height="300">  
+</p>
+  
+Principal components:
+<p align="center">  
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench_PC.jpg" width="460" height="300">  
+</p>
+  
+Rotation:  
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/rotated_wrench.jpg" width="460" height="300">  
+</p>
+  
 # Execution
 ```shell
 chmod +x wrench_axis_pca.py
