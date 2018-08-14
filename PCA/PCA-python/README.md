@@ -1,4 +1,3 @@
-
 # Problem description
 Find the approximate location and angle of the wrench using elements from PCA.
 
@@ -9,9 +8,9 @@ Additionally the object can be vertically aligned on the major axis by using an 
 
 The location of the wrench is given by the principal components and that the principal components can be interpreted as the semiaxes of an ellipse in 2D. Before applying PCA, it is necessary to do some preprocessing like thresholding and finding the edges.
 The results are shown in the following images:
-![Original image]()
-![Principal components]()
-![Rotation]()
+![Original image](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench.jpg)
+![Principal components](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench_PC.jpg)
+![Rotation](https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/rotated_wrench.jpg)
 
 # Execution
 ```shell
