@@ -1,8 +1,8 @@
 # Problem description
-Use LDA to find the projection vector that best separates the three classes, project the data and reduce it to 1D.  
-Sample for class X1 = (x,y) = (2, 3), (3, 6), (4, 4), (4, 2), (2, 4)  
-Sample for class X2 = (x,y) = (6, 8), (9, 5), (9, 10), (8, 7), (10, 8)  
-Sample for class X3 = (x,y) = (23, 14), (15, 8), (17, 12), (19, 10), (22, 9)  
+Use LDA to find the projection vector that best separates the three classes, project the data and reduce it to 1D. Sample for class:  
+* X1 = (x,y) = (2, 3), (3, 6), (4, 4), (4, 2), (2, 4)  
+* X2 = (x,y) = (6, 8), (9, 5), (9, 10), (8, 7), (10, 8)  
+* X3 = (x,y) = (23, 14), (15, 8), (17, 12), (19, 10), (22, 9)  
   
 # Solution
   

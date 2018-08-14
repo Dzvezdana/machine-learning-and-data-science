@@ -9,7 +9,7 @@ This repo includes implementation of several machine learning algorithms in Pyth
 
 ## Linear discriminant analysis
   - Theoretical background: https://sebastianraschka.com/Articles/2014_python_lda.html
-  - Simple LDA implementation: 
+  - Simple LDA implementation: https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/LDA
 
 ## ICA and SVM
   - Theoretical background:
