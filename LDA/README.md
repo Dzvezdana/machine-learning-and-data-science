@@ -6,7 +6,7 @@ Use LDA to find the projection vector that best separates the three classes, pro
   
 # Solution
   
-Original data:  
+Original data (markers represent the mean (black overall mean)):    
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/LDA/original_data.jpg">  
 </p>
@@ -21,7 +21,7 @@ Projection vector:
 	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/LDA/projection_vector.jpg">  
 </p>
   
-Reduced dimension:     
+Data with reduced dimension:       
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/LDA/reduced_dimension.jpg">  
 </p>
