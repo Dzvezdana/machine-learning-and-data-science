@@ -6,12 +6,12 @@ Each image is unfolded in a column vector and stacked in a matrix. The average i
 The results are shown in the following images:
 Average image:  
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-matlab/average_image.jpg" width="460" height="300">  
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-matlab/average_image.jpg">  
 </p>
     
 Eigen images:  
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-matlab/eigen_images.jpg" width="460" height="300">  
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-matlab/eigen_images.jpg">  
 </p>
   
 Sorted eigen values:  
