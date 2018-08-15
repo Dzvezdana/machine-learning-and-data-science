@@ -9,7 +9,7 @@ This repo includes implementation of several machine learning algorithms in Pyth
 
 ## Linear discriminant analysis
   - [Theoretical background](https://sebastianraschka.com/Articles/2014_python_lda.html)
-  - [Simple LDA implementation](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/LDA)
+  - [Simple LDA implementation (Matlab)](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/LDA)
 
 ## ICA and SVM
   - [Theoretical background](https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/ICA_and_SVM/report.pdf)
@@ -22,4 +22,6 @@ This repo includes implementation of several machine learning algorithms in Pyth
 ## K means clustering
   - Theoretical background:
   - Simple implementation (R): 
-  - "Fixing" row-shuffled image (R):
+
+## Hierarchical clustering 
+  - ["Fixing" row-shuffled image (R)](https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/hierarchical_clustering)
