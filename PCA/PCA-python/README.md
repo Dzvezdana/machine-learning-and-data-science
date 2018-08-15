@@ -11,7 +11,7 @@ The results are shown in the following images:
   
 Original image:  
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench.jpg" width="400" height="240">  
+	<img src="https://raw.githubusercontent.com/Dzvezdana/machine-learning-and-data-science/master/PCA/PCA-python/wrench.jpg">  
 </p>
   
 Principal components:
