@@ -13,12 +13,19 @@ ICA features.
   
 ICA is performed using the fastica function in Matlab. This function outputs the estimated
 separating matrix W and the corresponding mixing matrix A.  
+
 [icasig, A, W] = fastica(X);  
+
 For a given input data matrix Training Set (in our case the training images which are 500 x
-4000 matrix, i.e. each row is an observation) unmixing can be done using: icasig = W*TrainingSet
-(TrainingSet is separated on independent ’sources’ icasig) and mixing can be done using: Train-
-ingSet = A*icasig.  
-A stores the independent components extracted from TrainingSet. icasig stores the sources or
-the projections of TrainingSet on the independent components or the projection of the input data
-on the ICs. W separates the sources or independent components from the mixtures. icasig then is used to train SVM with quadratic kernel. Then a classification is made after the
-test data is projected in the same space as the training data.
+4000 matrix, i.e. each row is an observation) unmixing can be done using:  
+
+icasig = W*TrainingSet(TrainingSet is separated on independent ’sources’ icasig),  
+  
+and mixing can be done using: TrainingSet = A*icasig.  
+  
+A stores the independent components extracted from TrainingSet.  
+icasig stores the sources or the projections of TrainingSet on the independent components or the projection of the input data
+on the ICs.  
+W separates the sources or independent components from the mixtures.  
+  
+icasig then is used to train SVM with quadratic kernel. Then a classification is made after the test data is projected in the same space as the training data.
