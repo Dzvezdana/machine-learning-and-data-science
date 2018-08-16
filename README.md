@@ -23,5 +23,4 @@ This repo includes implementation of several machine learning algorithms in Pyth
   - [Theoretical background and implementation in R](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/k-means_clustering) 
 
 ## Hierarchical clustering 
-  - Theoretical background
   - ["Fixing" row-shuffled image (R)](https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/hierarchical_clustering)
