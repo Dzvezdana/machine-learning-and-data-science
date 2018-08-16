@@ -16,12 +16,12 @@ This repo includes implementation of several machine learning algorithms in Pyth
   - [Car detection in image set (Matlab)](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/ICA_and_SVM)
 
 ## ID3
-  - Theoretical background:
-  - Simple implementation (R):
+  - [Theoretical background]((https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/id3/report.pdf))
+  - [Simple implementation (R)](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/id3)
 
 ## K means clustering
-  - Theoretical background:
-  - Simple implementation (R): 
+  - Theoretical background
+  - Simple implementation (R) 
 
 ## Hierarchical clustering 
   - ["Fixing" row-shuffled image (R)](https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/hierarchical_clustering)
