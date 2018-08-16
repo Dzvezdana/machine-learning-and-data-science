@@ -19,9 +19,8 @@ This repo includes implementation of several machine learning algorithms in Pyth
   - [Theoretical background]((https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/id3/report.pdf))
   - [Simple implementation (R)](https://github.com/Dzvezdana/machine-learning-and-data-science/tree/master/id3)
 
-## K means clustering
-  - Theoretical background
-  - Simple implementation (R) 
+## K-means clustering
+  - [Theoretical background and implementation in R](((https://github.com/Dzvezdana/machine-learning-and-data-science/blob/master/k-means_clustering))) 
 
 ## Hierarchical clustering 
   - Theoretical background
